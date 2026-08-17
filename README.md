@@ -33,7 +33,7 @@ localStorage.setItem('JSONBIN_KEY', '你的JSONBin Master Key');
 
 配置一次后浏览器会记住（localStorage），下次直接使用。
 
-> 💡 云端同步版首次使用会提示"建立专属云端空间"，自动生成房间号（Bin ID）后填入代码中的 `BIN_ID` 常量即可跨设备同步。
+> 云端同步版首次使用会提示"建立专属云端空间"，自动生成房间号（Bin ID）后填入代码中的 `BIN_ID` 常量即可跨设备同步。
 
 ## 安全说明
 
